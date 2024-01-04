@@ -34,15 +34,15 @@
 
 # Installation
 
-To install atom-discord you will need to download the following dependencies:
+To install pulsar-discord you will need to download the following dependencies:
 
 - Git
 
 Download the [latest](https://git-scm.com/download) version of git.
 
 
-## Installing from Atom Package Manager
-Then either download the package via the built in package repo (Atom Settings > Install > atom-discord) or run `apm install atom-discord` in your terminal of choice.
+## Installing from Pulsar Package Manager
+Then either download the package via the built in package repo (Atom Settings > Install > atom-discord) or run `ppm install pulsar-discord` in your terminal of choice.
 
 
 ## Installing from Source Code
@@ -52,28 +52,28 @@ It is fairly easy to install from the source code, here's how to do it!
 Navigate to a empty folder then click `Git Bash Here`, then enter the following into the terminal:
 
 ```
-git clone https://github.com/HelloWorld017/atom-discord.git
+git clone https://github.com/mesub7/pulsar-discord.git
 cd atom-discord
 npm i
 apm link
 ```
 
-Then **add atom to discord game list** and restart atom to see the effects.  
+Then **add pulsar to Discord's game list** and restart Pulsar to see the effects.  
 
-:tada: You installed atom-discord.
+:tada: You installed pulsar-discord.
 
 ----
 
 # Checklist when Rich Presence is not showing
 
-* Check if the Atom is added in the games tab.  
+* Check if the Pulsar is added in the games tab.  
 * Check if the option `Display currently running game as a status message.` is turned on.  
 ![Imgur](https://i.imgur.com/OjFerWL.png)
-* Check if you restarted the Atom. (If not works, please restart discord, too.)
+* Check if you restarted the Atom. (If it's not working, please restart Discord too.)
 * Please follow the [steps from FAQ](https://github.com/HelloWorld017/atom-discord/blob/master/FAQ.md#not-showing).  
 * Check if there are some outputs in developer tools `(ctrl + shift + i)`.
 
-If you checked all of them but you couldn't find the reason why, please come to discord and send your symptom with your operating system and `~/.atom/atom-discord/log.txt`
+If you checked all of them but you couldn't find the reason why, please come to HelloWorld's Discord and send your issue with your operating system and `~/.pulsar/pulsar-discord/log.txt`
 
 
 # FAQ / Know Errors
@@ -94,7 +94,7 @@ If you checked all of them but you couldn't find the reason why, please come to 
 
 # License
 
-Released under the [MIT](https://en.wikipedia.org/wiki/MIT_License) License.
+Released under the [MIT](https://en.wikipedia.org/wiki/MIT_License) License. Some edits made by @mesub7
 
 >MIT License
 >
