@@ -1,7 +1,7 @@
 [![Discord](https://s33.postimg.cc/savzs5uhb/atom-banner.png)](http://discord.gg/zfEs3K6)
 
 <p align="center">
-  <b>Atom-Discord</b><br>
+  <b>Pulsar-Discord</b><br>
   <a href="https://discord.gg/zfEs3K6">Support</a> |
   <a href="https://atom.io/packages/atom-discord">Atom</a> |
   <a href="https://github.com/HelloWorld017/atom-discord/blob/master/FAQ.md">FAQ</a>
